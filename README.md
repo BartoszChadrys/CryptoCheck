@@ -1,5 +1,14 @@
-# CryptoCheck
+<div align="center">
+  <h1>CryptoCheck</h1>
+</div>
+
+<p align="center">
+    <img width="128" height="128" src="https://user-images.githubusercontent.com/97181425/217804345-6dd10211-c066-4a86-af33-8a10f57a00dc.png">
+</p>
+
+<p align="center">
 CryptoCheck is a simple app, which helps you to keep up with cryptocurrency rates
+</p>
 
 # Stack
 This app was made for learning purposes in order to improve my skills in using:
@@ -9,5 +18,6 @@ This app was made for learning purposes in order to improve my skills in using:
 
 # Screens
 
-![cryptocheck-firstpage](https://user-images.githubusercontent.com/97181425/217660558-c4acd4db-d702-4330-bf7f-f74be3c65190.png) 
-![cryptocheck-movie](https://user-images.githubusercontent.com/97181425/217628021-2feab45e-ab29-4fb6-af0f-663894cd6e7b.gif)
+<div align="center">
+<img width="422" height="850" src="https://user-images.githubusercontent.com/97181425/217819640-1ed94524-5d41-4449-8620-94e5e924426d.png"> <img width="422" height="850" src="https://user-images.githubusercontent.com/97181425/217824831-65d48b8b-fcd5-41a7-b75a-c48e4ddf8f7d.gif">
+</div>
