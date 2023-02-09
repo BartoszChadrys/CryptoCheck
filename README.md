@@ -13,7 +13,7 @@ CryptoCheck is a simple app, which helps you to keep up with cryptocurrency rate
 # Stack
 This app was made for learning purposes in order to improve my skills in using:
 - Delegate Design Pattern
-- API (in this project the API was from coinapi.io)
+- API (in this project the API was from **coinapi.io**)
 - CocoaPods
 
 # Screens
