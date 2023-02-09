@@ -19,5 +19,5 @@ This app was made for learning purposes in order to improve my skills in using:
 # Screens
 
 <div align="center">
-<img width="422" height="850" src="https://user-images.githubusercontent.com/97181425/217819640-1ed94524-5d41-4449-8620-94e5e924426d.png"> <img width="422" height="850" src="https://user-images.githubusercontent.com/97181425/217824831-65d48b8b-fcd5-41a7-b75a-c48e4ddf8f7d.gif">
+<img width="350" height="705" src="https://user-images.githubusercontent.com/97181425/217819640-1ed94524-5d41-4449-8620-94e5e924426d.png"> <img width="350" height="705" src="https://user-images.githubusercontent.com/97181425/217824831-65d48b8b-fcd5-41a7-b75a-c48e4ddf8f7d.gif">
 </div>
